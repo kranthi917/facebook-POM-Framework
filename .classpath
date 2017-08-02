@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/Facebook_Project_Cucumber-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/htmlunit-2.9.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/htmlunit-core-js-2.9.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/httpcore-4.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/jcommander-1.13.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/jna-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/json-20080701.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/junit-dep-4.10.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/mail.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/nekohtml-1.9.15.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/operadriver-v0.7.3.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/selenium-java-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/selenium-java-2.11.0-srcs.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/testng.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/testng-6.0.1-nobsh-noguice.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="F:/core languages/AUTOMATION/selenium-2.53.0/packselenium/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

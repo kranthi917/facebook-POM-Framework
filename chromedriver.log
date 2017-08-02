@@ -1,0 +1,9 @@
+[-0.000][INFO]:     ChromeDriver 19.0.1068.0 E:\Selenium_Pack_Nov\code\Module 22 - POM\POM\chromedriver\chromedriver.exe
+[1.147][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "platform": "ANY",
+   "version": ""
+}
+
+[1.147][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --homepage=about:blank
+[46.153][SEVERE]:   Failed to initialize connection
